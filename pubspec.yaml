@@ -1,0 +1,17 @@
+name: pesapal_wrapper
+description: A wrapper for the pesapal api. Pesapal is a service prothat allows you to accept payments from your customers. This package makes it easier to integrate pesapal into your flutter app.
+version: 0.0.1
+repository: https://github.com/mboyamike/pesapal_wrapper
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
